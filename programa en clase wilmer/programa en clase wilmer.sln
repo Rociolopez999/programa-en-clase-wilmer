@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "programa en clase wilmer", "programa en clase wilmer\programa en clase wilmer.csproj", "{DA7EEC89-0F5F-4BBA-8ACC-FC1D0FB6CC63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA7EEC89-0F5F-4BBA-8ACC-FC1D0FB6CC63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA7EEC89-0F5F-4BBA-8ACC-FC1D0FB6CC63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA7EEC89-0F5F-4BBA-8ACC-FC1D0FB6CC63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA7EEC89-0F5F-4BBA-8ACC-FC1D0FB6CC63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E703E736-11A4-4357-975E-CD37E6935BBA}
+	EndGlobalSection
+EndGlobal
